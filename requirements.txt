@@ -1,0 +1,5 @@
+datasets>=2.15.0
+gradio>=4.19.2
+pandas>=2.0.0
+tqdm>=4.66.0
+huggingface-hub>=0.20.3 
