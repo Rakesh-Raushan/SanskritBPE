@@ -54,7 +54,7 @@ The tokenizer was trained on the [Sanskrit-Llama dataset](https://huggingface.co
 
 ## HuggingFace Space
 
-You can try out the tokenizer in our [HuggingFace Space](your_space_link_here)
+You can try out the tokenizer in our [HuggingFace Space](https://huggingface.co/spaces/Perpetualquest/SanskritBPE)
 
 ## Performance Metrics
 
