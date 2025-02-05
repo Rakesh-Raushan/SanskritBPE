@@ -1,6 +1,6 @@
 # Sanskrit BPE Tokenizer
 
-<time datetime="2021-02-06">February 6, 2021</time>
+<time datetime="2019-11-30 23:00:00 +0530" class="published">November 30, 2019</time>
 
 A byte pair encoding (BPE) tokenizer specifically designed for Sanskrit text processing.
 
